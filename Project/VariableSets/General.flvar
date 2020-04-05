@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet>
+  <Variable
+    Comment=""
+    Name="AuthorEmail"
+    EvaluatedDefinition="deborah@starfallprojects.co.uk">deborah@starfallprojects.co.uk</Variable>
+  <Variable
+    Comment=""
+    Name="ProjectTitle"
+    EvaluatedDefinition="Gretel Adorno">Gretel Adorno</Variable>
+  <Variable
+    Name="AuthorWebsite"
+    Comment=""
+    EvaluatedDefinition="https://www.starfallprojects.co.uk/">https://www.starfallprojects.co.uk/</Variable>
+  <Variable
+    Name="Author"
+    Comment=""
+    EvaluatedDefinition="Deborah Barnard">Deborah Barnard</Variable>
+  <Variable
+    Name="VersionNumber"
+    OriginalName="VersionNumberDot">1.0</Variable>
+  <Variable
+    Name="Year"
+    Comment=""
+    Type="DateTime"
+    LastUpdated="2016-02-16T22:11:15.8176589-08:00"
+    EvaluatedDefinition="yyyy">yyyy</Variable>
+</CatapultVariableSet>

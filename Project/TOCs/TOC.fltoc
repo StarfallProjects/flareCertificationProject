@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/E-Frontmatter-Topics/Title.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    conditions="Default.PrintOnly"
+    StartSection="false"
+    BreakType="pageLayout"
+    PageType="title"
+    PageLayout="/Content/Resources/PageLayouts/Frontmatter.flpgl" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/A-Life/life.htm"
+    StartSection="false"
+    BreakType="chapter"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl">
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/A-Life/childhood.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/A-Life/education.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/A-Life/early-career.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/A-Life/marriage.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/A-Life/death.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/B-Frankfurt-School/frankfurt-school.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl">
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/B-Frankfurt-School/dialectic-enlightenment.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/B-Frankfurt-School/diskussion-theorie-praxis.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/B-Frankfurt-School/aesthetic-theory.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/C-Reference/reference.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl">
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/C-Reference/further-reading.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/C-Reference/sources.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+</CatapultToc>

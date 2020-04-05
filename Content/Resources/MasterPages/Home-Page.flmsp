@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <MadCap:bodyProxy />
+        <div class="home-footer">
+            <table style="width: 100%;">
+                <col />
+                <col />
+                <tbody>
+                    <tr>
+                        <td>
+                            <p class="footer"><MadCap:variable name="General.AuthorWebsite" />
+                            </p>
+                            <p class="footer"><MadCap:variable name="General.ProjectTitle" />
+                            </p>
+                            <p class="footer"><MadCap:variable name="General.StreetAddress" />
+                            </p>
+                            <p class="footer"><MadCap:variable name="General.Author" />
+                            </p>
+                            <p class="footer-sub">Created Using MadCap&#160;Flare</p>
+                        </td>
+                        <td style="text-align: right;">
+                            <img src="../Images/Logo.png" />
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </body>
+</html>
