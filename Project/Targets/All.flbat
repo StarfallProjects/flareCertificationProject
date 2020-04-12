@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultBatchTarget
+  Version="1"
+  Comment="New Batch Target">
+  <Targets>    
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="PDF"
+      Type="PDF"
+      Build="true"
+      LastBuilt="2020-04-11T11:07:39.6019885+01:00" />
+      <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Factsheet"
+      Type="PDF"
+      Build="true" />
+      <Target
+      Icon="System.Drawing.Bitmap"
+      Name="HTML5"
+      Type="HTML5"
+      Build="true"
+      LastBuilt="2020-04-11T11:04:00.0038858+01:00" />
+  </Targets>
+</CatapultBatchTarget>

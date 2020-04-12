@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PageStyles>
+    <Page Name="First" Width="800" Height="800" Padding="20px" PageSize="A4" PageType="first" PaddingLeft="3.5cm" PaddingRight="2.5cm" PaddingTop="2.5cm" PaddingBottom="2.5cm">
+        <Frame Flow="body" ColumnCount="1" Anchors="" PaddingLeft="0in" PaddingRight="0in" PaddingTop="0in" PaddingBottom="0in" X="-0.375in" Y="-43px" Right="0.01041667in" Bottom="0.01041667in" Width="15.95438cm" Height="25.84979cm">
+        </Frame>
+        <Frame Flow="footer" Anchors="" Right="0.01041667in" X="-0.375in" Y="25.32063cm" ColumnCount="1" PaddingLeft="0in" PaddingRight="0in" PaddingTop="0in" PaddingBottom="0in" FlowIndex="1" Height="1.243542cm" BorderTopStyle="solid" BorderTopWidth="1pt" BorderTopColor="#000000" VerticalAlign="middle" TextAlign="center" Width="15.95438cm" Bottom="-69px">
+            <Content>
+                <xhtml:html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:head>
+                    </xhtml:head>
+                    <xhtml:body>
+                        <xhtml:p><MadCap:variable xhtml:name="General.ProjectTitle" /> Factsheet</xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+    </Page>
+</PageStyles>

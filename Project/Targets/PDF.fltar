@@ -5,26 +5,29 @@
   Type="PDF"
   Destinations=""
   GlossaryTermConversion="marked"
-  ConditionTagExpression="include[Default.PrintOnly] exclude[Default.ScreenOnly] "
+  ConditionTagExpression="include[Default.Mobile or Default.PrintOnly or Default.Tablet or Default.Web], exclude[Default.Factsheet or Default.ScreenOnly]"
   PatchHeadingLevels="true"
   InjectEmptyPages="false"
-  MasterToc="/Project/TOCs/TOC.fltoc">
+  MasterToc="/Project/TOCs/TOC.fltoc"
+  OutputFile="GretelAdorno">
   <PrintedOutput
     CollapseMargins="false"
     ExpandingTextConversion="expand"
     PopupConversion="remove-body"
     GenerateTOCProxy="true"
     GenerateIndexProxy="false"
-    GenerateGlossaryProxy="true" />
+    GenerateGlossaryProxy="true"
+    OutputFormat="doc" />
   <DocumentProperties
     Title="[%=General.ProjectTitle%]"
     Author="[%=General.Author%]" />
   <PDF
     ShowUsedBookmarks="false"
-    InitialMagnification="FitBH"
+    InitialMagnification="Fit"
     PageLayout="SinglePage"
     TitleBar="DocumentTitle"
     CollapsedBookmarks="true"
     CropAndRegistrationMarks="false"
     ConvertToCMYK="true" />
+  <PostBuild>C:\Users\debor\Desktop\flareCertificationProject\PDFPostBuild.bat</PostBuild>
 </CatapultTarget>

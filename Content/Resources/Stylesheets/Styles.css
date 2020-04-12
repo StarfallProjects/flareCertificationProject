@@ -2,14 +2,15 @@
 
 :root
 {
-	--Brand1: #076685;
-	--Brand2: #CDE0E7;
+	--Brand1: #660033;
+	--Brand2: #ffffcc;
 	--Black: #000000;
 	--Dark: #45494c;
 	--Medium: #b9bec1;
 	--Light: #d0d3d5;
 	--White: #ffffff;
 }
+
 
 body
 {
@@ -571,6 +572,21 @@ p.footer-sub
 	margin-top: 14px;
 }
 
+/* custom classes */
+.quickfacts {
+	border: 1px solid var(--Brand1);
+	border-radius: 5px;
+	display: inline-block;
+	padding: 0 20px 0 20px;
+}
+
+.mini-heading {
+	font-weight: bold;
+}
+
+
+
+
 @media tablet
 {
 	/* Home page topic */
@@ -710,6 +726,14 @@ p.footer-sub
 		font-size: 11pt;
 	}
 
+	div.quickfacts {
+		display: block;
+		margin-top: 20px;
+		padding: 20px;
+	}
+
+
+
 	/* Headings */
 
 	h1
@@ -745,4 +769,5 @@ p.footer-sub
 		mc-format: '{quote}{para}{quote} {pageref}';
 		text-decoration: none;
 	}
+
 }

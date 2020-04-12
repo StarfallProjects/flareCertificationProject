@@ -3,7 +3,10 @@
     <head>
     </head>
     <body>
-        <h1>Aesthetic Theory</h1>
-        <p>Delete this text and replace it with your own content.</p>
+		<div class="quickfacts">
+			<p><span class="mini-heading">Marriage:</span>
+			</p>
+			<p>Married Theodor Adorno 1937</p>
+		</div>
     </body>
 </html>

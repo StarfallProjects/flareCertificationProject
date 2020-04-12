@@ -1,55 +1,24 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultGlossary
   conditions="">
-  <GlossaryEntry
-    Terms="Copy (5) of New"
-    glossTerm="Glossary.Term0"
-    Stem=""
-    IgnoreCase="false">
-    <Terms>
-      <Term>Lorem</Term>
-    </Terms>
-    <Definition
-      Link="">Definition for lorem.</Definition>
-  </GlossaryEntry>
-  <GlossaryEntry
-    glossTerm="Glossary.Term2"
-    Stem=""
-    IgnoreCase="false">
-    <Terms>
-      <Term>Ipsum</Term>
-    </Terms>
-    <Definition
-      Link="">Definition for ipsum.</Definition>
-  </GlossaryEntry>
-  <GlossaryEntry
-    glossTerm="Glossary.Term3"
-    Stem=""
-    IgnoreCase="false">
-    <Terms>
-      <Term>Maximus</Term>
-    </Terms>
-    <Definition
-      Link="">Definition for maximus.</Definition>
-  </GlossaryEntry>
   <GlossaryEntry
     glossTerm="Glossary.Term4"
     Stem=""
     IgnoreCase="false">
     <Terms>
-      <Term>Consectetur</Term>
+      <Term>Tiergarten</Term>
     </Terms>
     <Definition
-      Link="">Definition for consectetur.</Definition>
+      Link="">Famous park in Berlin.</Definition>
   </GlossaryEntry>
   <GlossaryEntry
-    glossTerm="Glossary.Term5"
+    glossTerm="Glossary.Term0"
     Stem=""
     IgnoreCase="false">
     <Terms>
-      <Term>Maecenas</Term>
+      <Term>Frankfurt School</Term>
     </Terms>
     <Definition
-      Link="">Definition for maecenas.</Definition>
+      Link="">A school of social theory and critical philosophy at Goethe University, Frankfurt, Germany. Founded 1918.</Definition>
   </GlossaryEntry>
 </CatapultGlossary>

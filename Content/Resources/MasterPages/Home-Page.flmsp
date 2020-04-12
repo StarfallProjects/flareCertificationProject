@@ -15,8 +15,6 @@
                             </p>
                             <p class="footer"><MadCap:variable name="General.ProjectTitle" />
                             </p>
-                            <p class="footer"><MadCap:variable name="General.StreetAddress" />
-                            </p>
                             <p class="footer"><MadCap:variable name="General.Author" />
                             </p>
                             <p class="footer-sub">Created Using MadCap&#160;Flare</p>
