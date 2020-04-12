@@ -11,16 +11,17 @@
                 <tbody>
                     <tr>
                         <td>
-                            <p class="footer"><MadCap:variable name="General.AuthorWebsite" />
-                            </p>
-                            <p class="footer"><MadCap:variable name="General.ProjectTitle" />
-                            </p>
+                         
+                       
+							<p>Author:</p>
                             <p class="footer"><MadCap:variable name="General.Author" />
                             </p>
-                            <p class="footer-sub">Created Using MadCap&#160;Flare</p>
                         </td>
                         <td style="text-align: right;">
-                            <img src="../Images/Logo.png" />
+							<p>Author website:</p>
+							<p class="footer"><MadCap:variable name="General.AuthorWebsite" />
+							</p>
+                            
                         </td>
                     </tr>
                 </tbody>

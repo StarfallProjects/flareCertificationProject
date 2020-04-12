@@ -19,7 +19,8 @@
     <TocEntry
       Title="[%=System.LinkedTitle%]"
       Link="/Content/A-Life/childhood.htm"
-      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      StartSection="false" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
       Link="/Content/A-Life/education.htm"

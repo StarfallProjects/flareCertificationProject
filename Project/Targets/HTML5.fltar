@@ -8,7 +8,7 @@
   MasterPage="/Content/Resources/MasterPages/Other-Topics.flmsp"
   DefaultUrl="/Content/Home.htm"
   ConditionTagExpression="include[Default.ScreenOnly], exclude[Default.Factsheet or Default.PrintOnly]"
-  ShowMadCapBacklink="true"
+  ShowMadCapBacklink="false"
   ResolveCssVariables="true">
   <PrintedOutput
     CollapseMargins="true"
