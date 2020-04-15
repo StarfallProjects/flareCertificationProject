@@ -1,4 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <UrlList>
+    <Url Source="Resources/Images/gretel.jpg" />
+    <Url Source="Resources/Images/letters.jpg" />
+    <Url Source="Resources/Images/aesthetic-theory.jpg" />
+    <Url Source="Resources/Images/towards-new-manifesto.jpg" />
     <Url Source="Resources/Images/Icon-Download.png" />
 </UrlList>
